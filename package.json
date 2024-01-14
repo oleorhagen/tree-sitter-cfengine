@@ -1,0 +1,17 @@
+{
+  "name": "tree-sitter-cfengine",
+  "version": "1.0.0",
+  "description": "A tree-sitter grammar for CFEngine",
+  "main": "bindings/node",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ole Orhagen",
+  "license": "ISC",
+  "dependencies": {
+    "nan": "^2.18.0"
+  },
+  "devDependencies": {
+    "tree-sitter-cli": "^0.20.8"
+  }
+}
